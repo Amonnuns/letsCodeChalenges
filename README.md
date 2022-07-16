@@ -1,3 +1,3 @@
 # letsCodeChalenges 
 
-Repository created with the purpose of saving letsCodeChalenges solved
+Repository created with the purpose of saving CodeChalenges solved
